@@ -1,0 +1,14 @@
+.legend {
+    display: flex;
+    align-items: center;
+}
+
+.legend__icon {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.legend__title {
+    padding-left: 5px;
+}

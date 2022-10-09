@@ -1,0 +1,17 @@
+.progress-bar {
+    display: inline-block;
+}
+
+.progress {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.legends {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    flex-wrap: wrap;
+}
